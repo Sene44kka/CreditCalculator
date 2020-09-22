@@ -1,0 +1,2 @@
+# CreditCalculator
+Пробный тест
